@@ -26,10 +26,4 @@ During development, we made the following assumptions
   * Headers for data sources must be on the first line (B1 onwards on line 1)
   * Date and Time of data is on the left hand side (column A), in the following format: "DD/MM/YYYY HH:mm"
 
-## Contributors
 
-* Josh Gill - gillj8@cardiff.ac.uk
-* Haroon Mohammed - mohammedhz@cardiff.ac.uk
-* Marwa Omar - omarfm@cardiff.ac.uk
-* Ahmad Shahin - shahina@cardiff.ac.uk
-* Sami Ahmed - ahmedms4@cardiff.ac.uk
