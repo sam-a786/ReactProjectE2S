@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@syncfusion/ej2-react-charts": "^20.3.60",
+    "google-maps-react": "^2.0.6"
+  }
+}
